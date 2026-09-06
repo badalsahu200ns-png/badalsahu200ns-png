@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 BADAL KUMAR SAHU
-
+**[View My Portfolio →](https://badalsahu200ns-png.github.io/)**
 ### `Business Analytics` • `AI Strategy` • `Generative AI` • `Data Analytics` • `AI Products` • `Google Cloud`
 
 <p>
