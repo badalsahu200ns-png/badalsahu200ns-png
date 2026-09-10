@@ -2,7 +2,7 @@
 
 # 👋 BADAL KUMAR SAHU
 **[View My Portfolio →](https://badalsahu200ns-png.github.io/)**
-### `Business Analytics` • `AI Strategy` • `Generative AI` • `Data Analytics` • `AI Products` • `Google Cloud`
+### `Business Analytics` • `AI Strategy` • `Software Developer`  • `Generative AI` • `Data Analytics` • `AI Products` • `Google Cloud`
 
 <p>
 Building at the intersection of <b>Business + Data + AI + Product + Cloud</b>.
